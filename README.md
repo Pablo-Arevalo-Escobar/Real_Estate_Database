@@ -1,5 +1,5 @@
 # Real_Estate_Database
-MVC pattern Java Implementation of a real estate database using JavaFX for the front-end.
+Java Implementation, using the MVC pattern, of a real estate database with JavaFX for the front-end.
 
 ## Main Menu
 
